@@ -25,8 +25,6 @@ Through this portfolio, my objective is to provide a clear and structured overvi
 
 ## 1.Python-based ETL Automation — End-to-End Data Processing
 
-## Code: python_fundamentals_capstone.ipynb
-
 ## Situation:
 The workload involved significant time spent performing repetitive data tasks manually, including cleaning, validating, and
 formatting datasets. These manual processes slowed down operations, increased the likelihood of errors, and created bottlenecks  in reporting and analysis.
