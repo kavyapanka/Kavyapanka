@@ -11,9 +11,9 @@ My portfolio includes a range of projects that I have completed over the years. 
 ## 📚 Table of Contents
 - [About](#about)
 - [Highlighted Projects](#highlighted-projects)
-  - [Power BI Dashboard — Enterprise KPI Visibility]()
-  - [SQL Optimization — High-Performance Data Pipeline]()
   - [Python-based ETL Automation — End-to-End Data Processing](https://github.com/kavyapanka/Python-based-ETL-Automation-End-to-End-Data-Processing.git)
+  - [SQL Optimization — High-Performance Data Pipeline](https://github.com/kavyapanka/SQL-Optimization-High-Performance-Data-Pipeline.git)
+  - [Power BI Dashboard — Enterprise KPI Visibility](https://github.com/kavyapanka/Power-BI-Dashboard-Enterprise-KPI-Visibility.git)
   - Certificates
  
 ## All My Work (Sorted By Most Recent)
