@@ -55,7 +55,7 @@ Develop a Python‑based automation solution to streamline data preparation, red
 
 •	Increased overall operational efficiency by eliminating repetitive manual steps.
 
-## 2.SQL Optimization Project
+## 2.SQL Optimization — High-Performance Data Pipeline
 
 ## Situation:
 Business reporting was slowed down by inefficient SQL queries and heavy data retrieval operations, leading to delays in generating insights and reduced productivity for analysts and stakeholders.
@@ -81,7 +81,7 @@ Enhance SQL query performance by optimizing logic, reducing processing time, and
 
 •	Improved system efficiency and reduced load on the database environment.
 
-## 3.Power BI Dashboard Project
+## 3.Power BI Dashboard — Enterprise KPI Visibility
 
 ## Situation:
 Reporting was fragmented across multiple Excel files, leading to inconsistent KPIs, delayed insights, and limited visibility for leadership. The organization needed a consolidated, real‑time reporting solution. 
