@@ -10,11 +10,10 @@ My portfolio includes a range of projects that I have completed over the years. 
 
 ## 📚 Table of Contents
 - [About](#about)
-- [Skills](#skills)
 - [Highlighted Projects](#highlighted-projects)
   - [Power BI Dashboard — Enterprise KPI Visibility]()
   - [SQL Optimization — High-Performance Data Pipeline]()
-  - [Python-based ETL Automation — End-to-End Data Processing]()
+  - [Python-based ETL Automation — End-to-End Data Processing](https://github.com/kavyapanka/Python-based-ETL-Automation-End-to-End-Data-Processing.git)
   - Certificates
  
 ## All My Work (Sorted By Most Recent)
