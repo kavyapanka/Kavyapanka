@@ -33,7 +33,7 @@ I have developed optimized slow and inefficient SQL queries by removing redundan
 
 ## 3.Power BI Dashboard — Enterprise KPI Visibility
 
-I built a scalable Power BI dashboard by cleaning and standardizing fragmented Excel data, designing an optimized data model, and developing advanced DAX measures for consistent KPIs and interactive insights. The solution included automated data refreshes and intuitive visuals with drill‑downs and slicers. This delivered a real‑time single source of truth that improved visibility, reduced manual reporting, and enabled faster, data‑driven decision‑making.
+I have built a scalable Power BI dashboard by cleaning and standardizing fragmented Excel data, designing an optimized data model, and developing advanced DAX measures for consistent KPIs and interactive insights. The solution included automated data refreshes and intuitive visuals with drill‑downs and slicers. This delivered a real‑time single source of truth that improved visibility, reduced manual reporting, and enabled faster, data‑driven decision‑making.
 
 ## Certificates
 These are all important certifications I have recived over the past few years, which prove my skill as an analyst.
