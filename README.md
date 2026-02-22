@@ -25,88 +25,15 @@ Through this portfolio, my objective is to provide a clear and structured overvi
 
 ## 1.Python-based ETL Automation — End-to-End Data Processing
 
-## Situation:
-The workload involved significant time spent performing repetitive data tasks manually, including cleaning, validating, and
-formatting datasets. These manual processes slowed down operations, increased the likelihood of errors, and created bottlenecks  in reporting and analysis.
-
-## Task:
-Develop a Python‑based automation solution to streamline data preparation, reduce manual workload, and ensure consistent, accurate processing.
-
-## Action:
-•	Analyzed existing manual workflows to identify repetitive steps and key automation opportunities.
-
-•	Designed and built modular Python scripts to automate data cleaning, apply validation rules, and standardize formats across datasets.
-
-•	Integrated automation workflows to handle file ingestion, preprocessing, and transformation tasks end‑to‑end.
-
-•	Implemented error‑handling, logging, and reporting mechanisms to make the automation reliable and easy to monitor.
-
-•	Optimized the scripts for scalability, allowing them to handle larger data volumes with minimal manual oversight.
-
-## Result:
-•	Reduced manual effort significantly by automating routine data processing tasks.
-
-•	Improved processing speed and consistency, enabling faster turnarounds for analysis and reporting.
-
-•	Enhanced data quality through standardized validation and transformation practices.
-
-•	Increased overall operational efficiency by eliminating repetitive manual steps.
+I have developed a Python‑based automation solution that streamlined data preparation by replacing repetitive manual cleaning, validation, and formatting tasks with modular, scalable scripts. The automated workflows improved speed, accuracy, and consistency while incorporating robust error‑handling and logging for reliability. As a result, manual effort was significantly reduced, data quality improved, and operational efficiency increased end‑to‑end.
 
 ## 2.SQL Optimization — High-Performance Data Pipeline
 
-## Situation:
-Business reporting was slowed down by inefficient SQL queries and heavy data retrieval operations, leading to delays in generating insights and reduced productivity for analysts and stakeholders.
-
-## Task: 
-Enhance SQL query performance by optimizing logic, reducing processing time, and improving overall data workflow efficiency to support faster reporting.
-
-## Action: 
-•	Reviewed existing SQL scripts to identify bottlenecks such as unnecessary subqueries, redundant filters, and inefficient joins.
-
-•	Refactored and streamlined query logic to minimize complexity and improve execution efficiency.
-
-•	Optimized join conditions, indexing strategies, and filtering methods to reduce table scan overhead.
-
-•	Reorganized data workflows to support more efficient extraction, transformation, and aggregation processes.
-
-•	Implemented best practices for query tuning, including partitioning, indexing, and performance‑aware schema adjustments.
-
-## Result: 
-•	Enhanced the overall speed and reliability of business reporting processes.
-
-•	Enabled faster access to insights, supporting quicker decision‑making for stakeholders.
-
-•	Improved system efficiency and reduced load on the database environment.
+I have developed optimized slow and inefficient SQL queries by removing redundant logic, improving join conditions, and applying indexing and partitioning best practices to reduce processing time. I also streamlined the overall data workflow to support faster extraction, transformation, and aggregation. This resulted in significantly faster, more reliable reporting and improved system efficiency for stakeholders.
 
 ## 3.Power BI Dashboard — Enterprise KPI Visibility
 
-## Situation:
-Reporting was fragmented across multiple Excel files, leading to inconsistent KPIs, delayed insights, and limited visibility for leadership. The organization needed a consolidated, real‑time reporting solution. 
-    
-## Task:
-Create a scalable Power BI dashboard to centralize business data, improve KPI visibility, and provide interactive analytics for stakeholders.
-
-## Action: 
-•	Analyzed existing Excel reporting processes and addressed data quality issues.
-
-•	Cleaned and standardized datasets for reliable Power BI integration.
-
-•	Built an optimized data model with relationships, calculated tables, and efficient schema design.
-
-•	Developed advanced DAX measures for KPIs, trend analysis, and time‑intelligence insights.
-
-•	Designed interactive dashboards with drill‑downs, slicers, and KPI‑focused visuals.
-
-•	Automated data refresh cycles to eliminate manual reporting.
-
-## Result: 
-•	Delivered a real‑time, automated dashboard that improved KPI visibility across the organization.
-
-•	Reduced manual reporting time and accelerated decision‑making.
-
-•	Enabled stakeholders to monitor performance trends and make more proactive, data‑driven decisions.
-
-•	Established a single, credible source of truth for business metrics.
+I built a scalable Power BI dashboard by cleaning and standardizing fragmented Excel data, designing an optimized data model, and developing advanced DAX measures for consistent KPIs and interactive insights. The solution included automated data refreshes and intuitive visuals with drill‑downs and slicers. This delivered a real‑time single source of truth that improved visibility, reduced manual reporting, and enabled faster, data‑driven decision‑making.
 
 ## Certificates
 These are all important certifications I have recived over the past few years, which prove my skill as an analyst.
